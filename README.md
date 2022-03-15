@@ -8,6 +8,11 @@ Then, I got a Raspberry Pi which introduced me to Python. First Python, then obj
 
 Besides that, I also enjoy Calculus. Those differential equations and integrations are incredibly enjoyable. The REALLY HARD math puzzles are just as fun!. I also love quantum mechanics and special relativity. Yep, all the hard stuff.
 
+## My Inspiration
+I work to inspire and echo the patterns and beauty of the world we live in. I believe that the true way to understand and interpret our world is through mathematics and science. I think that the true meaning of math and physics is in nature and we can only gain an appreciation for nature by studying its intricacies. I think it is crucial to introspect and cogitate about the patterns we see and ask the question, "Why?" Only then are new discoveries made and only then do we better understand ourselves.
+
+And as per robotics, what could be a better way to understand nature than to mimic its most prominent features and help our species alongside. I think that robotics has some downsides, but it allows us to gain a deeper appreciation for the vastly complex and intricate nature we live in.
+
 ## My Projects
 ### DeepShift Labs
 This is my biggest project yet. This is a research institution I started. We aim to use biomimetic robotics to develop a general intelligence. Yes, an AI that learns like a living being! We are using multi-agent AI algorithms, real-time databases, and semi-supervised AI algorithms. We are also making a fully 3D printed 12DOF robot dog. That will be the first host of our AI. Interested? Go here to learn more:
