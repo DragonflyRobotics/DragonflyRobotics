@@ -22,7 +22,7 @@ What happens when you combine image area search, temperature predictions, and a 
 I am always looking for people to work with, and DeepShift Labs is also looking for contributers. If you are interested, please don't hesitate to email me at [deepshiftlabs@outlook.com](deepshiftlabs@outlook.com). You can also just contact me through Github.
 * Here is my [OpenCollective](https://opencollective.com/project-zeta) if you want to contribute monetary value to my projects.
 
-I am also very passionate about contributing. I am trying to solve issues on ROS, Arduino, and other smaller Github Repositories. I think that it is crucial to giveback to the community that our hobby came from. The OpenSource movement has resulted in incredible feats and the reapid expansion of software and hardware capabilities. I am only now understanding the difficulty of being an OpenSource developer. That is why I contribute to other projects. 
+I am also very passionate about contributing. I am trying to solve issues on ROS, Arduino, and other smaller Github Repositories. I think that it is crucial to give back to the community that our hobby came from. The OpenSource movement has resulted in incredible feats and the rapid expansion of software and hardware capabilities. I am only now understanding the difficulty of being an OpenSource developer. That is why I contribute to other projects. 
 
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
