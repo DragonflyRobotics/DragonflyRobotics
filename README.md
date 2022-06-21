@@ -33,8 +33,9 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonflyRobotics&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Some of my Repositories:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeepShift-Labs&repo=MAGIST-Algorithm)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/DeepShift-Labs/MAGIST-Algorithm))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeepShift-Labs&repo=Project-Zeta)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/DeepShift-Labs/Project-Zeta))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeepShift-Labs&repo=MAGIST-Algorithm)](https://github.com/DeepShift-Labs/MAGIST-Algorithm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeepShift-Labs&repo=Project-Zeta)](https://github.com/DeepShift-Labs/Project-Zeta)
+
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
