@@ -3,19 +3,19 @@
 Welcome to my profile repository. Let me tell you some facts about me.
 
 ## About Me
-I am a robotics hobbyist. I first started off with Arduino. This was roughly 6.5 years ago. Wow! This escalated one sensor after another. It is incredible how much you can learn and make using a tiny microcontroller. I made several wheeled robots, cars, and even a supercar. That was basically a car with obstacle avoidance strapped to a Google Assistant. I know, brilliant :). 
+I am a robotics hobbyist. I first started with Arduino. This was roughly 6.5 years ago. Wow! This escalated one sensor after another. It is incredible how much you can learn and make using a tiny microcontroller. I made several wheeled robots, cars, and even a supercar. That was a car with obstacle avoidance strapped to a Google Assistant. I know, brilliant :). 
 Then, I got a Raspberry Pi which introduced me to Python. First Python, then object detection, then AI. Now, when I "made" my first AI, it was example code that I changed the variables and a few things here and there. But, that itself taught me a lot. 
 
 Besides that, I also enjoy Calculus. Those differential equations and integrations are incredibly enjoyable. The REALLY HARD math puzzles are just as fun!. I also love quantum mechanics and special relativity. Yep, all the hard stuff.
 
 ## My Inspiration
-I work to inspire and echo the patterns and beauty of the world we live in. I believe that the true way to understand and interpret our world is through mathematics and science. I think that the true meaning of math and physics is in nature and we can only gain an appreciation for nature by studying its intricacies. I think it is crucial to introspect and cogitate about the patterns we see and ask the question, "Why?" Only then are new discoveries made and only then do we better understand ourselves.
+I work to inspire and echo the patterns and beauty of the world we live in. I believe that the true way to understand and interpret our world is through mathematics and science. I think that the true meaning of math and physics is in nature and we can only gain an appreciation for nature by studying its intricacies. I think it is crucial to introspect and cogitate about the patterns we see and ask the question, "Why?" Only then are discoveries made and only then do we better understand ourselves.
 
 And as per robotics, what could be a better way to understand nature than to mimic its most prominent features and help our species alongside. I think that robotics has some downsides, but it allows us to gain a deeper appreciation for the vastly complex and intricate nature we live in.
 
 ## My Projects
 ### DeepShift Labs
-This is my biggest project yet. This is a research institution I started. We aim to use biomimetic robotics to develop a general intelligence. Yes, an AI that learns like a living being! We are using multi-agent AI algorithms, real-time databases, and semi-supervised AI algorithms. We are also making a fully 3D printed 12DOF robot dog. That will be the first host of our AI. Interested? Go here to learn more:
+This is my biggest project yet. This is a research institution I started. We aim to use biomimetic robotics to develop a General Intelligence. Yes, an AI that learns like a living being! We are using multi-agent AI algorithms, real-time databases, and semi-supervised AI algorithms. We are also making a fully 3D printed 12DOF robot dog. That will be the first host of our AI. Interested? Go here to learn more:
 * [Github](https://github.com/DeepShift-Labs)
 * [YouTube](https://www.youtube.com/channel/UC6nu2aGbAEX3yy5b0W9GBIg)
 * [Medium](https://deepshiftlabs.medium.com/)
