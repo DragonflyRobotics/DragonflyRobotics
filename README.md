@@ -14,7 +14,7 @@ I work to inspire and echo the patterns and beauty of the world we live in. I be
 And as per robotics, what could be a better way to understand nature than to mimic its most prominent features and help our species alongside. I think that robotics has some downsides, but it allows us to gain a deeper appreciation for the vastly complex and intricate nature we live in.
 
 ## My Projects
-### DeepShift Labs
+### [DeepShift Labs](https://github.com/DeepShift-Labs)
 This is my biggest project yet. This is a research institution I started. We aim to use biomimetic robotics to develop a General Intelligence. Yes, an AI that learns like a living being! We are using multi-agent AI algorithms, real-time databases, and semi-supervised AI algorithms. We are also making a fully 3D printed 12DOF robot dog. That will be the first host of our AI. Interested? Go here to learn more:
 * [Github](https://github.com/DeepShift-Labs)
 * [YouTube](https://www.youtube.com/channel/UC6nu2aGbAEX3yy5b0W9GBIg)
