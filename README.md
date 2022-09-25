@@ -2,6 +2,30 @@
 
 Welcome to my profile repository. Let me tell you some facts about me.
 
+
+<h2 align="center">Proficient in:</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/rust-281C1C?style=for-the-badge&logo=rust&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/C%20Language-blue?style=for-the-badge&logo=c&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="vertical-align:top; margin:6px">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Linux-grey?logo=linux" style="vertical-align:top; margin:6px">
+</p>
+
+<h2 align="center">Learning:</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://www.r-project.org/logo/Rlogo.png" style="vertical-align:top; margin:20px;" height="30px" width="auto">
+</p>
+
 ## About Me
 I am a robotics hobbyist. I first started with Arduino. This was roughly 6.5 years ago. Wow! This escalated one sensor after another. It is incredible how much you can learn and make using a tiny microcontroller. I made several wheeled robots, cars, and even a supercar. That was a car with obstacle avoidance strapped to a Google Assistant. I know, brilliant :). 
 Then, I got a Raspberry Pi which introduced me to Python. First Python, then object detection, then AI. Now, when I "made" my first AI, it was example code that I changed the variables and a few things here and there. But, that itself taught me a lot. 
@@ -29,12 +53,13 @@ I am always looking for people to work with, and DeepShift Labs is also looking 
 
 I am also very passionate about contributing. I am trying to solve issues on ROS, Arduino, and other smaller Github Repositories. I think that it is crucial to give back to the community that our hobby came from. The OpenSource movement has resulted in incredible feats and the rapid expansion of software and hardware capabilities. I am only now understanding the difficulty of being an OpenSource developer. That is why I contribute to other projects. 
 
-[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonflyRobotics&count_private=true&show_icons=true&show_owner=true)](https://github.com/DragonflyRobotics)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonflyRobotics&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonflyRobotics&count_private=true&show_icons=true&theme=cobalt&show_owner=true)](https://github.com/DragonflyRobotics)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonflyRobotics&theme=cobalt&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DragonflyRobotics&hide_border=true&theme=cobalt&count_private=true" alt="DragonflyRobotics" />
 
 ## Some of my Repositories:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeepShift-Labs&repo=MAGIST-Algorithm)](https://github.com/DeepShift-Labs/MAGIST-Algorithm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeepShift-Labs&repo=Project-Zeta)](https://github.com/DeepShift-Labs/Project-Zeta)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeepShift-Labs&theme=cobalt&repo=MAGIST-Algorithm)](https://github.com/DeepShift-Labs/MAGIST-Algorithm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeepShift-Labs&theme=cobalt&repo=Project-Zeta)](https://github.com/DeepShift-Labs/Project-Zeta)
 
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
