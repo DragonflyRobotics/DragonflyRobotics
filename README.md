@@ -63,7 +63,18 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonflyRobotics&theme=cobalt&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
+
+<picture>
+<source 
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=DragonflyRobotics&hide_border=true&count_private=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=DragonflyRobotics&hide_border=true&count_private=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DragonflyRobotics&hide_border=true&count_private=true" alt="DragonflyRobotics" />
+</picture>
 
 ## Some of my Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeepShift-Labs&theme=transparent&repo=MAGIST-Algorithm)](https://github.com/DeepShift-Labs/MAGIST-Algorithm)
