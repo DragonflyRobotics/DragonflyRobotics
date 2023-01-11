@@ -13,6 +13,7 @@ Welcome to my profile repository. Let me tell you some facts about me.
   <img src="https://img.shields.io/badge/rust-281C1C?style=for-the-badge&logo=rust&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/C%20Language-blue?style=for-the-badge&logo=c&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
 <p align="center">
@@ -22,7 +23,6 @@ Welcome to my profile repository. Let me tell you some facts about me.
 <h2 align="center">Learning:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://www.r-project.org/logo/Rlogo.png" style="vertical-align:top; margin:20px;" height="30px" width="auto">
 </p>
 
