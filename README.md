@@ -58,10 +58,10 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 <!-- ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonflyRobotics&count_private=true&theme=transparent)
  -->
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonflyRobotics)](https://github.com/DragonflyRobotics)
+ [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DragonflyRobotics)](https://github.com/DragonflyRobotics)
  
-[![Krishna's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DragonflyRobotics&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/DragonflyRobotics#gh-dark-mode-only)
-[![Krishna's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DragonflyRobotics&count_private=true&theme=default#gh-light-mode-only)](https://github.com/DragonflyRobotics#gh-light-mode-only)
+[![Krishna's GitHub stats-Dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DragonflyRobotics&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/DragonflyRobotics#gh-dark-mode-only)
+[![Krishna's GitHub stats-Light](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DragonflyRobotics&count_private=true&theme=default#gh-light-mode-only)](https://github.com/DragonflyRobotics#gh-light-mode-only)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonflyRobotics&theme=cobalt&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -80,8 +80,8 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 </picture>
 
 ## Some of my Repositories:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeepShift-Labs&theme=transparent&repo=MAGIST-Algorithm)](https://github.com/DeepShift-Labs/MAGIST-Algorithm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeepShift-Labs&theme=transparent&repo=Project-Zeta)](https://github.com/DeepShift-Labs/Project-Zeta)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DeepShift-Labs&theme=transparent&repo=MAGIST-Algorithm)](https://github.com/DeepShift-Labs/MAGIST-Algorithm)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DeepShift-Labs&theme=transparent&repo=Project-Zeta)](https://github.com/DeepShift-Labs/Project-Zeta)
 
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
