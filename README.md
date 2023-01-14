@@ -49,7 +49,7 @@ This is my biggest project yet. This is a research institution I started. We aim
 What happens when you combine image area search, temperature predictions, and a simple CNN. You get an AI that trains and functions on any machine (even the ones from 10 years ago) and predicts in ~0.5 seconds. It highlights different regions of an image that contain a given object. Then, it draws a bounding box around it. It is super simple but quite efficient. 
 
 ## Contributing
-I am always looking for people to work with, and DeepShift Labs is also looking for contributors. If you are interested, please don't hesitate to email me at [deepshiftlabs@outlook.com](deepshiftlabs@outlook.com). You can also just contact me through Github.
+I am always looking for people to work with, and DeepShift Labs is also looking for contributors. If you are interested, please don't hesitate to email me at [krishna.shah@deepshift.dev](krishna.shah@deepshift.dev). You can also just contact me through Github.
 * Here is my [OpenCollective](https://opencollective.com/deepshift-labs) if you want to contribute monetary value to my projects.
 
 I am also very passionate about contributing. I am trying to solve issues on ROS, Arduino, and other smaller Github Repositories. I think that it is crucial to give back to the community that our hobby came from. The OpenSource movement has resulted in incredible feats and the rapid expansion of software and hardware capabilities. I am only now understanding the difficulty of being an OpenSource developer. That is why I contribute to other projects. 
