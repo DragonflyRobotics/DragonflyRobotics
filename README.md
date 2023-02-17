@@ -20,6 +20,14 @@ Welcome to my profile repository. Let me tell you some facts about me.
   <img src="https://img.shields.io/badge/-Linux-grey?logo=linux" style="vertical-align:top; margin:6px">
 </p>
 
+<h2 align="center">Other Skills:</h2>
+
+<p align="center">
+  <img style="vertical-align:top; margin:6px" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img style="vertical-align:top; margin:6px" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img style="vertical-align:top; margin:6px" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
 <h2 align="center">Learning:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" style="vertical-align:top; margin:6px">
