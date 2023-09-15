@@ -65,6 +65,8 @@ I am always looking for people to work with, and DeepShift Labs is also looking 
 I am also very passionate about contributing. I am trying to solve issues on ROS, Arduino, and other smaller Github Repositories. I think that it is crucial to give back to the community that our hobby came from. The OpenSource movement has resulted in incredible feats and the rapid expansion of software and hardware capabilities. I am only now understanding the difficulty of being an OpenSource developer. That is why I contribute to other projects. 
 
 
+***Note: The statistics below exclude my work on proprietary code, which may skew results (especially my work using C++ and Rust)***
+
 <!-- ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonflyRobotics&count_private=true&theme=transparent)
  -->
  
