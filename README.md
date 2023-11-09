@@ -7,13 +7,14 @@ Welcome to my profile repository. Let me tell you some facts about me.
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/rust-281C1C?style=for-the-badge&logo=rust&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/C%20Language-blue?style=for-the-badge&logo=c&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="vertical-align:top; margin:6px">
   <img style="vertical-align:top; margin:6px" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img style="vertical-align:top; margin:6px" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
@@ -32,10 +33,35 @@ Welcome to my profile repository. Let me tell you some facts about me.
   <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
+<h2 align="center">Team Tools:</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" style="vertical-align:top; margin:6px">
+</p>
+
+
+<h2 align="center">Frameworks:</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" style="vertical-align:top; margin:6px">
+</p>
+
+<h2 align="center">Media Plaforms:</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" style="vertical-align:top; margin:6px">
+</p>
+
 <h2 align="center">Other Skills:</h2>
 
 <p align="center">
   <img style="vertical-align:top; margin:6px" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" style="vertical-align:top; margin:6px">
   <img style="vertical-align:top; margin:6px" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img style="vertical-align:top; margin:6px" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
@@ -43,7 +69,7 @@ Welcome to my profile repository. Let me tell you some facts about me.
 <h2 align="center">Learning:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" style="vertical-align:top; margin:6px">
-  <img src="https://www.r-project.org/logo/Rlogo.png" style="vertical-align:top; margin:20px;" height="30px" width="auto">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
 ## About Me
