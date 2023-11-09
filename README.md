@@ -18,8 +18,18 @@ Welcome to my profile repository. Let me tell you some facts about me.
   <img style="vertical-align:top; margin:6px" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
+<h2 align="center">OS:</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-Linux-grey?logo=linux" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
 <h2 align="center">Other Skills:</h2>
