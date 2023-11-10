@@ -3,7 +3,7 @@
 Welcome to my profile repository. Let me tell you some facts about me.
 
 
-<h2 align="center">Proficient in:</h2>
+<h2 align="center">Languages:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="vertical-align:top; margin:6px">
@@ -19,7 +19,7 @@ Welcome to my profile repository. Let me tell you some facts about me.
   <img style="vertical-align:top; margin:6px" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-<h2 align="center">OS:</h2>
+<h2 align="center">OS/Distros:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="vertical-align:top; margin:6px">
@@ -33,21 +33,55 @@ Welcome to my profile repository. Let me tell you some facts about me.
   <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
+<h2 align="center">Frameworks:</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" style="vertical-align:top; margin:6px">
+</p>
+
+
+<h2 align="center">Hardware:</h2>
+<p align="center">
+  <img style="vertical-align:top; margin:6px" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img style="vertical-align:top; margin:6px" alt="Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+  <img style="vertical-align:top; margin:6px" alt="Adafruit" src="https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white" />
+</p>
+
+
+<h2 align="center">DB Systems:</h2>
+<p align="center">
+  <img style="vertical-align:top; margin:6px" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img style="vertical-align:top; margin:6px" alt="ES" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img style="vertical-align:top; margin:6px" alt="SQLLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+
+
+<h2 align="center">Tools:</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" style="vertical-align:top; margin:6px">
+</p>
+
 <h2 align="center">Team Tools:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" style="vertical-align:top; margin:6px">
-</p>
-
-
-<h2 align="center">Frameworks:</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
 <h2 align="center">Media Plaforms:</h2>
@@ -62,8 +96,10 @@ Welcome to my profile repository. Let me tell you some facts about me.
 <p align="center">
   <img style="vertical-align:top; margin:6px" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" style="vertical-align:top; margin:6px">
-  <img style="vertical-align:top; margin:6px" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img style="vertical-align:top; margin:6px" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img style="vertical-align:top; margin:6px" alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
+  <img style="vertical-align:top; margin:6px" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
 <h2 align="center">Learning:</h2>
@@ -106,7 +142,7 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 <!-- ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonflyRobotics&count_private=true&theme=transparent)
  -->
  
- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DragonflyRobotics&langs_count=20&theme=transparent&hide=HTML&count_private=true)](https://github.com/DragonflyRobotics)
+ [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DragonflyRobotics&langs_count=11&theme=transparent&hide=HTML&count_private=true)](https://github.com/DragonflyRobotics)
  
 [![Krishna's GitHub stats-Dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DragonflyRobotics&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/DragonflyRobotics#gh-dark-mode-only)
 [![Krishna's GitHub stats-Light](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DragonflyRobotics&count_private=true&theme=default#gh-light-mode-only)](https://github.com/DragonflyRobotics#gh-light-mode-only)
