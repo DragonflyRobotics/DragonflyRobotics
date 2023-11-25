@@ -29,19 +29,7 @@ Welcome to my profile repository. Let me tell you some facts about me.
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
-<h2 align="center">OS/Distros:</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" style="vertical-align:top; margin:6px">
-</p>
 
 <h2 align="center">AI/ML:</h2>
 
@@ -87,8 +75,6 @@ Welcome to my profile repository. Let me tell you some facts about me.
   <img style="vertical-align:top; margin:6px" alt="SQLLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-
-
 <h2 align="center">Tools:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" style="vertical-align:top; margin:6px">
@@ -107,6 +93,32 @@ Welcome to my profile repository. Let me tell you some facts about me.
   <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
+<h2 align="center">Other Skills:</h2>
+
+<p align="center">
+  <img style="vertical-align:top; margin:6px" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" style="vertical-align:top; margin:6px">
+  <img style="vertical-align:top; margin:6px" alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
+  <img style="vertical-align:top; margin:6px" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" style="vertical-align:top; margin:6px">
+</p>
+
+<h2 align="center">OS/Distros:</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" style="vertical-align:top; margin:6px">
+</p>
+
 <h2 align="center">Team Tools:</h2>
 
 <p align="center">
@@ -120,18 +132,6 @@ Welcome to my profile repository. Let me tell you some facts about me.
 <p align="center">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" style="vertical-align:top; margin:6px">
-</p>
-
-<h2 align="center">Other Skills:</h2>
-
-<p align="center">
-  <img style="vertical-align:top; margin:6px" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" style="vertical-align:top; margin:6px">
-  <img style="vertical-align:top; margin:6px" alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
-  <img style="vertical-align:top; margin:6px" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
 <h2 align="center">Learning:</h2>
