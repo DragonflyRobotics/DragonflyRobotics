@@ -17,6 +17,16 @@ Welcome to my profile repository. Let me tell you some facts about me.
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="vertical-align:top; margin:6px">
   <img style="vertical-align:top; margin:6px" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img style="vertical-align:top; margin:6px" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" style="vertical-align:top; margin:6px">
+</p>
+
+<h2 align="center">Dev/Compilation Tools:</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
 <h2 align="center">OS/Distros:</h2>
@@ -37,7 +47,7 @@ Welcome to my profile repository. Let me tell you some facts about me.
 
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="vertical-align:top; margin:6px">
-  <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" style="vertical-align:top; margin:6px">
@@ -47,11 +57,15 @@ Welcome to my profile repository. Let me tell you some facts about me.
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://shields.io/badge/Hugging_Face-ff9801?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAABX0lEQVR4nE2RMUhbYRhFz580hiZpk0o3EcFaEFsQnIKlcx0iOAiOoqCrUIVuHTplKpVSl4Lg4mTo4lTBpRQy6KBRcSkUFLO8weGlClGPQ+Kjd7vn++5yLwBg0WX3vfbGG6/dd9li5xIAfMN3HrPFL86Aft4yzRUL4XcnXTZ21QL/yYKrxpYBn3rqV0fcsW4FwEnr7jjimqc+CS7xgQF+cskFU7wA/vCDPkq84y9V3POzw85YMmPFtGkrZiw547Bf3Evxkmc0GCcd2mE73IbbsB3apBmnQYmhFBmOibjjwDl7Aex1jgPuiDgii5GvLJpzxXObNmzY9NwVcxZ9bfSINTZZZ4NRJnlOP3BGxHt6mGWeb3iiak1dTFpY7BI9wUMfVEseagk7xGpiYgcBHDROWDVFk1Y3mCcLQJZ8l7Rodraoq7rrhGOOOeGuqnXLD2sWmCZDnk/kgH98pEWbrRDDPTfk7v+sIzZNAAAAAElFTkSuQmCC" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
 <h2 align="center">Frameworks:</h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" style="vertical-align:top; margin:6px">
@@ -85,9 +99,12 @@ Welcome to my profile repository. Let me tell you some facts about me.
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
 <h2 align="center">Team Tools:</h2>
@@ -114,6 +131,7 @@ Welcome to my profile repository. Let me tell you some facts about me.
   <img style="vertical-align:top; margin:6px" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
 <h2 align="center">Learning:</h2>
