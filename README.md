@@ -64,9 +64,9 @@ Welcome to my profile repository. Let me tell you some facts about me.
 <p align="center">
   <img style="vertical-align:top; margin:6px" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img style="vertical-align:top; margin:6px" alt="Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+  <img style="vertical-align:top; margin:6px" alt="nVidia" src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" />
   <img style="vertical-align:top; margin:6px" alt="Adafruit" src="https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white" />
 </p>
-
 
 <h2 align="center">DB Systems:</h2>
 <p align="center">
