@@ -1,4 +1,4 @@
-# I Welcome You to My Profile 👋
+# I Welcome You to My Profile 👏
 
 Welcome to my profile repository. Let me tell you some facts about me.
 
@@ -198,6 +198,8 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 ## Some of my Repositories:
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DeepShift-Labs&theme=transparent&repo=MAGIST-Algorithm)](https://github.com/DeepShift-Labs/MAGIST-Algorithm)
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DeepShift-Labs&theme=transparent&repo=Project-Zeta)](https://github.com/DeepShift-Labs/Project-Zeta)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=frc5417&theme=transparent&repo=CustomSwerve)](https://github.com/frc5417/CustomSwerve)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Allen-ISD-Computer-Science&theme=transparent&repo=REPO_AutomaticDifferentiation_2024)](https://github.com/Allen-ISD-Computer-Science/REPO_AutomaticDifferentiation_2024)
 
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
