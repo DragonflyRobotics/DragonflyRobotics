@@ -195,6 +195,11 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 </picture>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## Some of my Repositories:
