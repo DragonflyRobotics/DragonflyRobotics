@@ -194,12 +194,12 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DragonflyRobotics&hide_border=true&count_private=true" alt="DragonflyRobotics" />
 </picture>
 
-## Some of my Repositories:
-[![Readme Card](https://github-readme-stats-fork-rho-five.vercel.app/api/pin/?username=DeepShift-Labs&theme=transparent&repo=MAGIST-Algorithm)](https://github.com/DeepShift-Labs/MAGIST-Algorithm)
-[![Readme Card](https://github-readme-stats-fork-rho-five.vercel.app/api/pin/?username=DeepShift-Labs&theme=transparent&repo=Project-Zeta)](https://github.com/DeepShift-Labs/Project-Zeta)
-[![Readme Card](https://github-readme-stats-fork-rho-five.vercel.app/api/pin/?username=frc5417&theme=transparent&repo=CustomSwerve)](https://github.com/frc5417/CustomSwerve)
-[![Readme Card](https://github-readme-stats-fork-rho-five.vercel.app/api/pin/?username=Allen-ISD-Computer-Science&theme=transparent&repo=REPO_AutomaticDifferentiation_2024)](https://github.com/Allen-ISD-Computer-Science/REPO_AutomaticDifferentiation_2024)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+## Some of my Repositories:
+[![Readme Card](https://github-readme-stats-fork-rho-five.vercel.app/api/pin/?username=DeepShift-Labs&theme=transparent&repo=MAGIST-Algorithm)](https://github.com/DragonflyRobotics/Neuroxide)
+[![Readme Card](https://github-readme-stats-fork-rho-five.vercel.app/api/pin/?username=DeepShift-Labs&theme=transparent&repo=Project-Zeta)](https://github.com/DragonflyRobotics/Torchscope)
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
