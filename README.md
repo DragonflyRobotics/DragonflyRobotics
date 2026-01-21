@@ -195,8 +195,6 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -238,16 +236,24 @@ Sunday                   515 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 19 mins        ████████████████░░░░░░░░░   64.14 % 
+C                        22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Standard ML              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Lua                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   2 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cs429t_s26_p1_kshah      1 hr                ████████████░░░░░░░░░░░░░   48.67 % 
+DiFUSE                   35 mins             ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+vista                    18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+nvim                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+RenderBox                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -267,7 +273,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2026 00:39:16 UTC
+ Last Updated on 21/01/2026 19:16:12 UTC
 <!--END_SECTION:waka-->
 
 ## Some of my Repositories:
