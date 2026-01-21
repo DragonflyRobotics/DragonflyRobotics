@@ -195,11 +195,79 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 </picture>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-```txt
-No activity tracked
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 23 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 60 Public Repositories 
+ > 
+> 🔑 33 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1270 commits        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+🌆 Daytime                1640 commits        █████████░░░░░░░░░░░░░░░░   35.34 % 
+🌃 Evening                1588 commits        █████████░░░░░░░░░░░░░░░░   34.22 % 
+🌙 Night                  143 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   939 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Tuesday                  688 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Wednesday                674 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Thursday                 639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Friday                   757 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Saturday                 429 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Sunday                   515 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     16 repos            ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+Python                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
+
+
+ Last Updated on 21/01/2026 00:39:16 UTC
 <!--END_SECTION:waka-->
 
 ## Some of my Repositories:
