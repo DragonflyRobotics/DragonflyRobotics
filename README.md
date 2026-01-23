@@ -279,8 +279,8 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## Some of my Repositories:
-[![Readme Card](https://github-readme-stats-fork-rho-five.vercel.app/api/pin/?username=DeepShift-Labs&theme=transparent&repo=MAGIST-Algorithm)](https://github.com/DragonflyRobotics/Neuroxide)
-[![Readme Card](https://github-readme-stats-fork-rho-five.vercel.app/api/pin/?username=DeepShift-Labs&theme=transparent&repo=Project-Zeta)](https://github.com/DragonflyRobotics/Torchscope)
+[![Readme Card](https://github-readme-stats-fork-rho-five.vercel.app/api/pin/?username=DragonflyRobotics&theme=transparent&repo=Neuroxide)](https://github.com/DragonflyRobotics/Neuroxide)
+[![Readme Card](https://github-readme-stats-fork-rho-five.vercel.app/api/pin/?username=DragonflyRobotics&theme=transparent&repo=Torchscope)](https://github.com/DragonflyRobotics/Torchscope)
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
