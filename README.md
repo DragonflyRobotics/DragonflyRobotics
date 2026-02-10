@@ -5,12 +5,23 @@ Welcome to my profile repository. Let me tell you some facts about me.
 ## About Me
 I am currently a Turing Scholar Honors Computer Science student at the University of Texas at Austin. Academically, I am a deep learning, learning theory, representation learning, neurocomputing, and robotics researcher working under Dunsmoor's Lab for neuroscience research and SALT (Speech Audio Language Technologies) lab doing cutting-edge multi-modal architecture and fMRI neural circuit extraction research. 
 
-In my pass time, I am developed a blazing fast, fully custom AI Engine that competes with PyTorch on performance (https://github.com/DragonflyRobotics/Neuroxide)[GitHub]. It has full CUDA compatibilty and auto-accelerates CPU processes with OpenBLAS and Intel MKL. it mimics the Torch API and a transpiler is in progress to allow full interoperability. In the future, I envision this being used for reasearch and development on HPC systems (High Performmance Compute Clusters).
+In my pass time, I am developed a blazing fast, fully custom AI Engine that competes with PyTorch on performance [GitHub](https://github.com/DragonflyRobotics/Neuroxide). It has full CUDA compatibilty and auto-accelerates CPU processes with OpenBLAS and Intel MKL. it mimics the Torch API and a transpiler is in progress to allow full interoperability. In the future, I envision this being used for reasearch and development on HPC systems (High Performmance Compute Clusters).
 
 ## My Inspiration
 I work to inspire and echo the patterns and beauty of the world we live in. I believe that the true way to understand and interpret our world is through mathematics and science. I think that the true meaning of math and physics is in nature and we can only gain an appreciation for nature by studying its intricacies. I think it is crucial to introspect and cogitate about the patterns we see and ask the question, "Why?" Only then are discoveries made and only then do we better understand ourselves.
 
 And as per robotics, what could be a better way to understand nature than to mimic its most prominent features and help our species alongside. I think that robotics has some downsides, but it allows us to gain a deeper appreciation for the vastly complex and intricate nature we live in.
+
+## Links to Various Socials:
+ * [Website](https://krishnashah.dev/)
+ * [LinkedIn](https://www.linkedin.com/in/krishnashah44)
+ * [Blog](https://thought.krishnashah.dev/)
+ * [YouTube](https://www.youtube.com/@krishnashah44)
+
+## Some of my Repositories:
+[![Readme Card](https://github-readme-stats-fork-rho-five.vercel.app/api/pin/?username=DragonflyRobotics&theme=transparent&repo=Neuroxide)](https://github.com/DragonflyRobotics/Neuroxide)
+[![Readme Card](https://github-readme-stats-fork-rho-five.vercel.app/api/pin/?username=DragonflyRobotics&theme=transparent&repo=Torchscope)](https://github.com/DragonflyRobotics/Torchscope)
+
 
 <h2 align="center">Languages:</h2>
 
@@ -264,10 +275,6 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
  Last Updated on 09/02/2026 20:01:03 UTC
 <!--END_SECTION:waka-->
-
-## Some of my Repositories:
-[![Readme Card](https://github-readme-stats-fork-rho-five.vercel.app/api/pin/?username=DragonflyRobotics&theme=transparent&repo=Neuroxide)](https://github.com/DragonflyRobotics/Neuroxide)
-[![Readme Card](https://github-readme-stats-fork-rho-five.vercel.app/api/pin/?username=DragonflyRobotics&theme=transparent&repo=Torchscope)](https://github.com/DragonflyRobotics/Torchscope)
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
