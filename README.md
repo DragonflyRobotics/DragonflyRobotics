@@ -23,6 +23,141 @@ And as per robotics, what could be a better way to understand nature than to mim
 [![Readme Card](https://github-readme-stats-fork-rho-five.vercel.app/api/pin/?username=DragonflyRobotics&theme=transparent&repo=Torchscope)](https://github.com/DragonflyRobotics/Torchscope)
 
 
+
+
+
+## Contributing
+I am always looking for people to work with, and DeepShift Labs is also looking for contributors. If you are interested, please don't hesitate to email me at [kshahusa@gmail.com](kshahusa@gmail.com). You can also just contact me through Github.
+
+I am also very passionate about contributing. I am trying to solve issues on ROS, Arduino, and other smaller Github Repositories. I think that it is crucial to give back to the community that our hobby came from. The OpenSource movement has resulted in incredible feats and the rapid expansion of software and hardware capabilities. I am only now understanding the difficulty of being an OpenSource developer. That is why I contribute to other projects. 
+
+
+***Note: The statistics below exclude my work on proprietary code, which may skew results (especially my work using C++ and Rust)***
+
+<!-- ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonflyRobotics&count_private=true&theme=transparent)
+ -->
+ 
+ [![Top Langs](https://github-readme-stats-fork-rho-five.vercel.app/api/top-langs/?username=DragonflyRobotics&langs_count=10&theme=transparent&hide=HTML&count_private=true)](https://github.com/DragonflyRobotics)
+ 
+[![Krishna's GitHub stats-Dark](https://github-readme-stats-fork-rho-five.vercel.app/api?username=DragonflyRobotics&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/DragonflyRobotics#gh-dark-mode-only)
+[![Krishna's GitHub stats-Light](https://github-readme-stats-fork-rho-five.vercel.app/api?username=DragonflyRobotics&count_private=true&theme=default#gh-light-mode-only)](https://github.com/DragonflyRobotics#gh-light-mode-only)
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonflyRobotics&theme=cobalt&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+<picture>
+<source 
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=DragonflyRobotics&hide_border=true&count_private=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=DragonflyRobotics&hide_border=true&count_private=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DragonflyRobotics&hide_border=true&count_private=true" alt="DragonflyRobotics" />
+</picture>
+
+## Wakatime
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2043%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 42 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 60 Public Repositories 
+ > 
+> 🔑 36 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1334 commits        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+🌆 Daytime                1677 commits        █████████░░░░░░░░░░░░░░░░   34.89 % 
+🌃 Evening                1644 commits        █████████░░░░░░░░░░░░░░░░   34.21 % 
+🌙 Night                  151 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   961 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Tuesday                  712 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Wednesday                698 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Thursday                 664 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Friday                   796 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Saturday                 446 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Sunday                   529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+C++                      14 hrs 12 mins      ████████████░░░░░░░░░░░░░   47.50 % 
+C                        6 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Python                   4 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Assembly                 3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+make                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+
+🔥 Editors: 
+Zed                      29 hrs 55 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+cs429t_s26_p4_kshah      15 hrs 6 mins       █████████████░░░░░░░░░░░░   50.49 % 
+cs429t_s26_p5_kshah      7 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+UpIsDown                 4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+cs429t_s26_p4__tests     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+vista                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+
+💻 Operating System: 
+Linux                    29 hrs 55 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   16 repos            ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Java                     15 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/03/2026 19:53:28 UTC
+<!--END_SECTION:waka-->
+<!--
+**DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <h2 align="center">Languages:</h2>
 
 <p align="center">
@@ -158,134 +293,3 @@ And as per robotics, what could be a better way to understand nature than to mim
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" style="vertical-align:top; margin:6px">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
-
-
-## Contributing
-I am always looking for people to work with, and DeepShift Labs is also looking for contributors. If you are interested, please don't hesitate to email me at [kshahusa@gmail.com](kshahusa@gmail.com). You can also just contact me through Github.
-
-I am also very passionate about contributing. I am trying to solve issues on ROS, Arduino, and other smaller Github Repositories. I think that it is crucial to give back to the community that our hobby came from. The OpenSource movement has resulted in incredible feats and the rapid expansion of software and hardware capabilities. I am only now understanding the difficulty of being an OpenSource developer. That is why I contribute to other projects. 
-
-
-***Note: The statistics below exclude my work on proprietary code, which may skew results (especially my work using C++ and Rust)***
-
-<!-- ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonflyRobotics&count_private=true&theme=transparent)
- -->
- 
- [![Top Langs](https://github-readme-stats-fork-rho-five.vercel.app/api/top-langs/?username=DragonflyRobotics&langs_count=10&theme=transparent&hide=HTML&count_private=true)](https://github.com/DragonflyRobotics)
- 
-[![Krishna's GitHub stats-Dark](https://github-readme-stats-fork-rho-five.vercel.app/api?username=DragonflyRobotics&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/DragonflyRobotics#gh-dark-mode-only)
-[![Krishna's GitHub stats-Light](https://github-readme-stats-fork-rho-five.vercel.app/api?username=DragonflyRobotics&count_private=true&theme=default#gh-light-mode-only)](https://github.com/DragonflyRobotics#gh-light-mode-only)
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonflyRobotics&theme=cobalt&langs_count=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<picture>
-<source 
-  srcset="https://github-readme-streak-stats.herokuapp.com/?user=DragonflyRobotics&hide_border=true&count_private=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-streak-stats.herokuapp.com/?user=DragonflyRobotics&hide_border=true&count_private=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DragonflyRobotics&hide_border=true&count_private=true" alt="DragonflyRobotics" />
-</picture>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2043%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 1.1 MB Used in GitHub's Storage 
- > 
-> 🏆 42 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 60 Public Repositories 
- > 
-> 🔑 36 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1334 commits        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-🌆 Daytime                1677 commits        █████████░░░░░░░░░░░░░░░░   34.89 % 
-🌃 Evening                1644 commits        █████████░░░░░░░░░░░░░░░░   34.21 % 
-🌙 Night                  151 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   961 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Tuesday                  712 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Wednesday                698 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Thursday                 664 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Friday                   796 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Saturday                 446 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Sunday                   529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-C++                      14 hrs 12 mins      ████████████░░░░░░░░░░░░░   47.50 % 
-C                        6 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-Python                   4 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Assembly                 3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-make                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-
-🔥 Editors: 
-Zed                      29 hrs 55 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-cs429t_s26_p4_kshah      15 hrs 6 mins       █████████████░░░░░░░░░░░░   50.49 % 
-cs429t_s26_p5_kshah      7 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-UpIsDown                 4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-cs429t_s26_p4__tests     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-vista                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-
-💻 Operating System: 
-Linux                    29 hrs 55 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   16 repos            ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Java                     15 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
-
-
- Last Updated on 05/03/2026 19:53:28 UTC
-<!--END_SECTION:waka-->
-<!--
-**DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
