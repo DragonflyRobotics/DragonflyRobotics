@@ -27,7 +27,7 @@ And as per robotics, what could be a better way to understand nature than to mim
 
 
 ## Contributing
-I am always looking for people to work with, and DeepShift Labs is also looking for contributors. If you are interested, please don't hesitate to email me at [kshahusa@gmail.com](kshahusa@gmail.com). You can also just contact me through Github.
+I am always looking for people to work with, and many of my projects are also looking for contributors. If you are interested, please don't hesitate to email me at [kshahusa@gmail.com](kshahusa@gmail.com). You can also just contact me through Github.
 
 I am also very passionate about contributing. I am trying to solve issues on ROS, Arduino, and other smaller Github Repositories. I think that it is crucial to give back to the community that our hobby came from. The OpenSource movement has resulted in incredible feats and the rapid expansion of software and hardware capabilities. I am only now understanding the difficulty of being an OpenSource developer. That is why I contribute to other projects. 
 
