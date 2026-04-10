@@ -69,7 +69,7 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 240 Contributions in the Year 2026
+> 🏆 241 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -119,11 +119,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-Java                     15 repos            █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Rust                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Python                   17 repos            █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+Java                     15 repos            █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Rust                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
 
 
@@ -133,7 +133,7 @@ C++                      5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2026 19:58:01 UTC
+ Last Updated on 10/04/2026 19:38:25 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
