@@ -69,11 +69,11 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 268 Contributions in the Year 2026
+> 🏆 270 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 62 Public Repositories 
+> 📜 63 Public Repositories 
  > 
 > 🔑 44 Private Repositories 
  > 
@@ -119,11 +119,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   18 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Rust                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Verilog                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Python                   19 repos            ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+Rust                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Verilog                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
@@ -133,7 +133,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 24/04/2026 19:41:39 UTC
+ Last Updated on 25/04/2026 19:35:58 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
