@@ -61,15 +61,13 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 ## Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2026%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 343 Contributions in the Year 2026
+> 🏆 345 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,45 +75,6 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
  > 
 > 🔑 44 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1370 commits        ███████░░░░░░░░░░░░░░░░░░   26.52 % 
-🌆 Daytime                1778 commits        █████████░░░░░░░░░░░░░░░░   34.42 % 
-🌃 Evening                1793 commits        █████████░░░░░░░░░░░░░░░░   34.71 % 
-🌙 Night                  224 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1026 commits        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Tuesday                  766 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Wednesday                747 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Thursday                 711 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Friday                   832 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Saturday                 482 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Sunday                   601 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -133,7 +92,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 20:26:05 UTC
+ Last Updated on 15/05/2026 20:13:31 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
