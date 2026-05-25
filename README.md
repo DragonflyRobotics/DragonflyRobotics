@@ -61,7 +61,7 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 ## Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -127,11 +127,11 @@ Linux                    2 hrs               ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   20 repos            ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-Rust                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Verilog                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Python                   21 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Rust                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+C++                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Verilog                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
@@ -141,7 +141,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2026 19:58:34 UTC
+ Last Updated on 25/05/2026 20:23:10 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
