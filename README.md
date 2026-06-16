@@ -61,7 +61,7 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 ## Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -104,19 +104,16 @@ Sunday                   624 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   2 hrs 28 mins       ████████████████████████░   97.07 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Python                   2 hrs 28 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 32 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Macroformer              2 hrs 28 mins       ████████████████████████░   96.87 % 
-StressFT                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Macroformer              2 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -136,7 +133,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2026 21:43:39 UTC
+ Last Updated on 16/06/2026 21:39:26 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
