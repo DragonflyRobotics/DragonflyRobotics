@@ -104,16 +104,18 @@ Sunday                   624 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   2 hrs 28 mins       █████████████████████████   100.00 % 
+Python                   2 hrs 43 mins       █████████████████████████   99.97 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 28 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Macroformer              2 hrs 28 mins       █████████████████████████   100.00 % 
+Macroformer              2 hrs 28 mins       ███████████████████████░░   90.66 % 
+StressFT                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
 
 💻 Operating System: 
-Linux                    2 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -133,7 +135,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2026 20:51:43 UTC
+ Last Updated on 18/06/2026 20:57:32 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
