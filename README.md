@@ -61,7 +61,7 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 ## Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -104,21 +104,20 @@ Sunday                   624 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   2 hrs 22 mins       █████████████████████████   99.86 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Python                   56 mins             █████████████████████████   99.56 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 14 mins       ███████████████████████░░   93.76 % 
-Claude Code              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Neovim                   48 mins             █████████████████████░░░░   84.41 % 
+Claude Code              8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
 
 🐱‍💻 Projects: 
-Macroformer              1 hr 44 mins        ██████████████████░░░░░░░   72.97 % 
-StressFT                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-rsa_scores               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Dhi                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Dhi                      27 mins             ████████████░░░░░░░░░░░░░   48.21 % 
+StressFT                 15 mins             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+rsa_scores               14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
 
 💻 Operating System: 
-Linux                    2 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -138,7 +137,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2026 20:24:37 UTC
+ Last Updated on 22/06/2026 21:33:56 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
