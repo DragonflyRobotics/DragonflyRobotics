@@ -61,7 +61,9 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 ## Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2051%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -69,30 +71,30 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 366 Contributions in the Year 2026
+> 🏆 367 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 65 Public Repositories 
+> 📜 64 Public Repositories 
  > 
-> 🔑 45 Private Repositories 
+> 🔑 46 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1399 commits        ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-🌆 Daytime                1808 commits        █████████░░░░░░░░░░░░░░░░   34.06 % 
-🌃 Evening                1855 commits        █████████░░░░░░░░░░░░░░░░   34.94 % 
+🌞 Morning                1400 commits        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+🌆 Daytime                1808 commits        █████████░░░░░░░░░░░░░░░░   34.05 % 
+🌃 Evening                1855 commits        █████████░░░░░░░░░░░░░░░░   34.93 % 
 🌙 Night                  247 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1035 commits        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Monday                   1036 commits        █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
 Tuesday                  800 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Wednesday                777 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Wednesday                777 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 Thursday                 731 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Friday                   844 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Friday                   844 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
 Saturday                 490 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 Sunday                   632 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
 ```
@@ -116,6 +118,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -133,7 +141,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:46:21 UTC
+ Last Updated on 27/07/2026 20:07:37 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
