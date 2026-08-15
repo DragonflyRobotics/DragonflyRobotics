@@ -106,43 +106,22 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   23 mins             ████████████████░░░░░░░░░   65.84 % 
-Markdown                 11 mins             ████████░░░░░░░░░░░░░░░░░   32.33 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              31 mins             ███████████████████████░░   90.31 % 
-Neovim                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LMQFormer                31 mins             ███████████████████████░░   90.31 % 
-Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (90.31%)
-
-✍️ 634 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 2,438,565 Input Tokens, 28,230 Output Tokens
-
-💵 $5.16 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 6 AI Prompts
-
-Claude                   634 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 631 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +141,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 19:32:23 UTC
+ Last Updated on 15/08/2026 18:58:54 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
