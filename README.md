@@ -106,16 +106,17 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      4 mins              ████████████████████████░   95.59 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nvim                     4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -127,11 +128,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   21 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Rust                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-C++                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Verilog                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Python                   21 repos            ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+Rust                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+C++                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Verilog                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 ```
 
 
@@ -141,7 +142,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 18:58:54 UTC
+ Last Updated on 16/08/2026 18:57:52 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
