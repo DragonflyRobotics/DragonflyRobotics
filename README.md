@@ -106,16 +106,21 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      38 mins             ███████████████████░░░░░░   77.66 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+C                        3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+ld                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   49 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          28 mins             ██████████████░░░░░░░░░░░   57.58 % 
+p0                       20 mins             ███████████░░░░░░░░░░░░░░   42.42 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -141,7 +146,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 19:12:36 UTC
+ Last Updated on 26/08/2026 20:35:10 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
