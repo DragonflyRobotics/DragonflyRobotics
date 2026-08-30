@@ -132,11 +132,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   21 repos            ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-Rust                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-C++                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Verilog                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Python                   21 repos            ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+Rust                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+C++                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Verilog                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
@@ -146,7 +146,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 21:08:28 UTC
+ Last Updated on 30/08/2026 21:25:16 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
