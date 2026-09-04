@@ -61,9 +61,9 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 ## Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -106,38 +106,47 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   31 mins             █████████████████████████   100.00 % 
+C++                      1 hr 18 mins        █████████████████░░░░░░░░   69.05 % 
+Python                   31 mins             ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-Neovim                   31 mins             █████████████████████████   100.00 % 
+Neovim                   1 hr 23 mins        ██████████████████░░░░░░░   73.28 % 
+Claude Code              30 mins             ███████░░░░░░░░░░░░░░░░░░   26.72 % 
 
 🐱‍💻 Projects: 
-Assignment0              31 mins             █████████████████████████   100.00 % 
+Assignment0              31 mins             ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+cs439t_f26_p0_kshah      30 mins             ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+p0                       26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Unknown Project          13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+p1                       12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
 
 💻 Operating System: 
-Linux                    31 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (100.0%)
+⏱ AI Coding Time: 1 hr 9 mins (61.23%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 108 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 954,527 Input Tokens, 18,385 Output Tokens
+🔤 1,581,352 Input Tokens, 27,206 Output Tokens
 
-💵 $2.09 Estimated AI Cost This Week
+💵 $3.43 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 4 AI Prompts
+🧠 2 AI Sessions, 16 AI Prompts
 
-Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude                   108 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 49 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 194 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.92% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -157,7 +166,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 21:17:14 UTC
+ Last Updated on 04/09/2026 21:00:12 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
