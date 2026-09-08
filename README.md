@@ -106,22 +106,22 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-C++                      3 hrs 21 mins       █████████████████████░░░░   84.14 % 
+C++                      3 hrs 21 mins       █████████████████████░░░░   84.12 % 
 Python                   31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
 Neovim                   3 hrs 28 mins       ██████████████████████░░░   87.26 % 
 Claude Code              30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
 
 🐱‍💻 Projects: 
-p1                       2 hrs 10 mins       ██████████████░░░░░░░░░░░   54.64 % 
+p1                       2 hrs 10 mins       ██████████████░░░░░░░░░░░   54.65 % 
 Assignment0              31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-p0                       31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-cs439t_f26_p0_kshah      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+p0                       31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+cs439t_f26_p0_kshah      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 💻 Operating System: 
 Linux                    3 hrs 58 mins       █████████████████████████   100.00 % 
@@ -130,7 +130,7 @@ Linux                    3 hrs 58 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 9 mins (29.19%)
+⏱ AI Coding Time: 1 hr 9 mins (29.18%)
 
 ✍️ 108 lines written by AI, 81 lines written by hand (57.14% AI-written)
 
@@ -166,7 +166,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:44:20 UTC
+ Last Updated on 08/09/2026 21:22:43 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
