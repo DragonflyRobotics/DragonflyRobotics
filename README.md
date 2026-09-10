@@ -65,7 +65,7 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2020%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,47 +106,47 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-C++                      3 hrs 21 mins       █████████████████████░░░░   84.12 % 
-Python                   31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+C++                      3 hrs 21 mins       ████████████████████░░░░░   79.93 % 
+Python                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Nix                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 28 mins       ██████████████████████░░░   87.26 % 
-Claude Code              30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Neovim                   3 hrs 4 mins        ██████████████████░░░░░░░   73.22 % 
+Claude Code              1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   26.78 % 
 
 🐱‍💻 Projects: 
-p1                       2 hrs 10 mins       ██████████████░░░░░░░░░░░   54.65 % 
-Assignment0              31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-p0                       31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-cs439t_f26_p0_kshah      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+p1                       2 hrs 12 mins       █████████████░░░░░░░░░░░░   52.78 % 
+ZeTT_Testing             33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+p0                       31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+cs439t_f26_p0_kshah      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Unknown Project          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 
 💻 Operating System: 
-Linux                    3 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 9 mins (29.18%)
+⏱ AI Coding Time: 1 hr 15 mins (29.88%)
 
-✍️ 108 lines written by AI, 81 lines written by hand (57.14% AI-written)
+✍️ 257 lines written by AI, 82 lines written by hand (75.81% AI-written)
 
-🔤 1,581,352 Input Tokens, 27,206 Output Tokens
+🔤 13,880,390 Input Tokens, 95,981 Output Tokens
 
-💵 $3.43 Estimated AI Cost This Week
+💵 $136.89 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 16 AI Prompts
+🧠 4 AI Sessions, 19 AI Prompts
 
-Claude                   108 lines           █████████████████████████   100.00 % 
+Claude                   257 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.14% of written lines came from AI
-📝 Concise Prompter — average 194 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 59.7% of changed lines were hand-edited
+🤖 AI-Driven — 75.81% of written lines came from AI
+📝 Concise Prompter — average 408 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 38.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +166,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 21:07:58 UTC
+ Last Updated on 10/09/2026 21:06:36 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
