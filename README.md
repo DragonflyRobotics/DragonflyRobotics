@@ -61,9 +61,9 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 ## Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -106,47 +106,47 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-C++                      2 hrs 2 mins        ████████████░░░░░░░░░░░░░   46.10 % 
-Python                   56 mins             █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-Other                    52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Python                   1 hr 57 mins        ███████████░░░░░░░░░░░░░░   43.51 % 
+Other                    1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+Markdown                 56 mins             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 25 mins       ██████████████░░░░░░░░░░░   54.70 % 
-Claude Code              2 hrs               ███████████░░░░░░░░░░░░░░   45.30 % 
+Claude Code              2 hrs 58 mins       █████████████████░░░░░░░░   66.37 % 
+Neovim                   1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   33.63 % 
 
 🐱‍💻 Projects: 
-p1                       2 hrs               ███████████░░░░░░░░░░░░░░   45.28 % 
-ZeTT_Testing             1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   35.77 % 
-zett                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Unknown Project          17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-p0                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+ZeTT_Testing             2 hrs 26 mins       ██████████████░░░░░░░░░░░   54.45 % 
+Unknown Project          1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   32.81 % 
+zett                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+llama_handoff            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+p1                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 💻 Operating System: 
-Linux                    4 hrs 25 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 1 min (45.71%)
+⏱ AI Coding Time: 3 hrs 18 mins (73.77%)
 
-✍️ 149 lines written by AI, 87 lines written by hand (63.14% AI-written)
+✍️ 337 lines written by AI, 29 lines written by hand (92.08% AI-written)
 
-🔤 31,205,004 Input Tokens, 143,657 Output Tokens
+🔤 52,374,198 Input Tokens, 207,589 Output Tokens
 
-💵 $312.52 Estimated AI Cost This Week
+💵 $534.12 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 27 AI Prompts
+🧠 9 AI Sessions, 45 AI Prompts
 
-Claude                   149 lines           █████████████████████████   100.00 % 
+Claude                   337 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.14% of written lines came from AI
-📄 Detailed Prompter — average 859 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 52.55% of changed lines were hand-edited
+🤖 AI-Driven — 92.08% of written lines came from AI
+📄 Detailed Prompter — average 705 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 7.92% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +166,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:11:16 UTC
+ Last Updated on 12/09/2026 20:49:46 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
