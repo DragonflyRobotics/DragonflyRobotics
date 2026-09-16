@@ -106,48 +106,48 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   41.37 % 
-Other                    1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   32.51 % 
-Markdown                 56 mins             █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Python                   2 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.88 % 
+Other                    2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.02 % 
+Markdown                 56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Text                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 58 mins       ███████████████░░░░░░░░░░   58.61 % 
-Neovim                   2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   41.39 % 
+Claude Code              3 hrs 49 mins       ███████████████░░░░░░░░░░   59.55 % 
+Neovim                   2 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   40.45 % 
 
 🐱‍💻 Projects: 
-ZeTT_Testing             2 hrs 52 mins       ██████████████░░░░░░░░░░░   56.52 % 
-Unknown Project          1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   30.64 % 
-zett                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-llama_handoff            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-p1                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+ZeTT_Testing             3 hrs 15 mins       █████████████░░░░░░░░░░░░   50.91 % 
+Unknown Project          2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.94 % 
+zett                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+toolkit                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+llama_handoff            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 💻 Operating System: 
-Linux                    5 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 46 mins (74.22%)
+⏱ AI Coding Time: 4 hrs 50 mins (75.49%)
 
-✍️ 337 lines written by AI, 132 lines written by hand (71.86% AI-written)
+✍️ 526 lines written by AI, 147 lines written by hand (78.16% AI-written)
 
-🔤 54,744,760 Input Tokens, 224,827 Output Tokens
+🔤 82,434,381 Input Tokens, 291,351 Output Tokens
 
-💵 $558.69 Estimated AI Cost This Week
+💵 $838.91 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 59 AI Prompts
+🧠 13 AI Sessions, 71 AI Prompts
 
-Claude                   337 lines           █████████████████████████   100.00 % 
+Claude                   580 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.86% of written lines came from AI
-📄 Detailed Prompter — average 565 characters per prompt
+🤖 AI-Driven — 78.16% of written lines came from AI
+📄 Detailed Prompter — average 503 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 28.14% of changed lines were hand-edited
+🚀 High AI Trust — 20.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +167,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 21:38:56 UTC
+ Last Updated on 16/09/2026 21:34:14 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
