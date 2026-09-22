@@ -61,9 +61,9 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 ## Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -106,48 +106,48 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-C++                      50 mins             ████████░░░░░░░░░░░░░░░░░   31.96 % 
-Text                     39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-Other                    36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-Python                   30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-netrw                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+C++                      51 mins             ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+Python                   49 mins             ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+Text                     39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+Other                    36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+netrw                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Neovim                   1 hr 32 mins        ███████████████░░░░░░░░░░   59.24 % 
-Claude Code              1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   40.76 % 
+Neovim                   1 hr 39 mins        ██████████████░░░░░░░░░░░   56.05 % 
+Claude Code              1 hr 18 mins        ███████████░░░░░░░░░░░░░░   43.95 % 
 
 🐱‍💻 Projects: 
-p2                       55 mins             █████████░░░░░░░░░░░░░░░░   35.25 % 
-Unknown Project          39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-ZeTT_Testing             33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-toolkit                  26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-p1                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+p2                       57 mins             ████████░░░░░░░░░░░░░░░░░   32.07 % 
+Unknown Project          39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+ZeTT_Testing             37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+toolkit                  37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+zett                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 💻 Operating System: 
-Linux                    2 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 29 mins (56.9%)
+⏱ AI Coding Time: 1 hr 48 mins (61.04%)
 
-✍️ 190 lines written by AI, 37 lines written by hand (83.7% AI-written)
+✍️ 217 lines written by AI, 38 lines written by hand (85.1% AI-written)
 
-🔤 29,830,593 Input Tokens, 92,661 Output Tokens
+🔤 35,756,471 Input Tokens, 102,679 Output Tokens
 
-💵 $302.94 Estimated AI Cost This Week
+💵 $362.70 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 18 AI Prompts
+🧠 4 AI Sessions, 20 AI Prompts
 
-Claude                   247 lines           █████████████████████████   100.00 % 
+Claude                   274 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.7% of written lines came from AI
-📝 Concise Prompter — average 165 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 16.55% of changed lines were hand-edited
+🤖 AI-Driven — 85.1% of written lines came from AI
+📝 Concise Prompter — average 166 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 15.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +167,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 22:10:24 UTC
+ Last Updated on 22/09/2026 21:36:52 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
