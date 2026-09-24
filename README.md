@@ -61,9 +61,9 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 ## Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -106,31 +106,31 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-C++                      51 mins             ████████████░░░░░░░░░░░░░   46.92 % 
-Python                   34 mins             ████████░░░░░░░░░░░░░░░░░   31.19 % 
-Other                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+C++                      49 mins             ████████████░░░░░░░░░░░░░   46.02 % 
+Python                   34 mins             ████████░░░░░░░░░░░░░░░░░   31.81 % 
+Other                    19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 netrw                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-Neovim                   1 hr 15 mins        █████████████████░░░░░░░░   68.01 % 
-Claude Code              35 mins             ████████░░░░░░░░░░░░░░░░░   31.99 % 
+Neovim                   1 hr 13 mins        █████████████████░░░░░░░░   67.37 % 
+Claude Code              35 mins             ████████░░░░░░░░░░░░░░░░░   32.63 % 
 
 🐱‍💻 Projects: 
-p2                       57 mins             █████████████░░░░░░░░░░░░   51.66 % 
-toolkit                  16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Unknown Project          14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-ZeTT_Testing             14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-zett                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+p2                       57 mins             █████████████░░░░░░░░░░░░   52.69 % 
+toolkit                  16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Unknown Project          14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+ZeTT_Testing             14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+zett                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 💻 Operating System: 
-Linux                    1 hr 50 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 mins (47.07%)
+⏱ AI Coding Time: 52 mins (48.01%)
 
 ✍️ 28 lines written by AI, 23 lines written by hand (54.9% AI-written)
 
@@ -167,7 +167,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 21:42:41 UTC
+ Last Updated on 24/09/2026 21:43:53 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
