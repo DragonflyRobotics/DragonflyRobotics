@@ -63,7 +63,7 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -106,32 +106,33 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   44 mins             ████████████████████░░░░░   81.59 % 
-Other                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-C++                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-netrw                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Python                   1 hr 6 mins         █████████████████████░░░░   83.94 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+C++                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-Neovim                   33 mins             ███████████████░░░░░░░░░░   59.95 % 
-Claude Code              22 mins             ██████████░░░░░░░░░░░░░░░   40.05 % 
+Neovim                   57 mins             ██████████████████░░░░░░░   72.33 % 
+Claude Code              22 mins             ███████░░░░░░░░░░░░░░░░░░   27.67 % 
 
 🐱‍💻 Projects: 
-Unknown Project          16 mins             ████████░░░░░░░░░░░░░░░░░   30.44 % 
-toolkit                  16 mins             ████████░░░░░░░░░░░░░░░░░   30.20 % 
-ZeTT_Testing             14 mins             ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-zett                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-p2                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+CP4_KrishnaShah          19 mins             ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+Unknown Project          16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+toolkit                  16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+ZeTT_Testing             14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+paralinguistics          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 
 💻 Operating System: 
-Linux                    55 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (69.86%)
+⏱ AI Coding Time: 38 mins (48.26%)
 
-✍️ 27 lines written by AI, 2 lines written by hand (93.1% AI-written)
+✍️ 27 lines written by AI, 42 lines written by hand (39.13% AI-written)
 
 🔤 9,419,654 Input Tokens, 22,896 Output Tokens
 
@@ -143,10 +144,10 @@ Claude                   27 lines            ███████████�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.1% of written lines came from AI
+⚖️ Balanced with AI — 39.13% of written lines came from AI
 📝 Concise Prompter — average 156 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 6.9% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 60.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +167,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 21:25:46 UTC
+ Last Updated on 27/09/2026 21:33:56 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
