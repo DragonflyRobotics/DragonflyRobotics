@@ -61,11 +61,11 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 ## Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2051%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,47 +106,46 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   46 mins             ██████████████████░░░░░░░   70.53 % 
-Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-YAML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-C++                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Python                   26 mins             ███████████████░░░░░░░░░░   61.54 % 
+YAML                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-Neovim                   43 mins             █████████████████░░░░░░░░   66.14 % 
-Claude Code              22 mins             ████████░░░░░░░░░░░░░░░░░   33.86 % 
+Neovim                   36 mins             █████████████████████░░░░   82.66 % 
+Claude Code              7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
 
 🐱‍💻 Projects: 
-CP4_KrishnaShah          19 mins             ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-toolkit                  16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-segmamba                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-paralinguistics          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-ZeTT_Testing             5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+CP4_KrishnaShah          19 mins             ███████████░░░░░░░░░░░░░░   43.93 % 
+segmamba                 6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+toolkit                  6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+paralinguistics          5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Unknown Project          4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
 
 💻 Operating System: 
-Linux                    1 hr 5 mins         █████████████████████████   100.00 % 
+Linux                    43 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 mins (41.78%)
+⏱ AI Coding Time: 7 mins (17.34%)
 
-✍️ 27 lines written by AI, 41 lines written by hand (39.71% AI-written)
+✍️ 0 lines written by AI, 40 lines written by hand (0.0% AI-written)
 
-🔤 7,727,398 Input Tokens, 18,214 Output Tokens
+🔤 1,801,520 Input Tokens, 8,196 Output Tokens
 
-💵 $78.18 Estimated AI Cost This Week
+💵 $18.43 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Claude                   27 lines            █████████████████████████   100.00 % 
+Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.71% of written lines came from AI
-📝 Concise Prompter — average 184 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 60.29% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 191 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +165,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 23:30:14 UTC
+ Last Updated on 29/09/2026 22:34:41 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
