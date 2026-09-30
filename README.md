@@ -106,46 +106,28 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   26 mins             ███████████████░░░░░░░░░░   61.54 % 
-YAML                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Python                   22 mins             ██████████████████░░░░░░░   70.64 % 
+YAML                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-Neovim                   36 mins             █████████████████████░░░░   82.66 % 
-Claude Code              7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Neovim                   31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CP4_KrishnaShah          19 mins             ███████████░░░░░░░░░░░░░░   43.93 % 
-segmamba                 6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-toolkit                  6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-paralinguistics          5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Unknown Project          4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+CP4_KrishnaShah          19 mins             ███████████████░░░░░░░░░░   61.39 % 
+segmamba                 6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+paralinguistics          5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Linux                    43 mins             █████████████████████████   100.00 % 
+Linux                    31 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (17.34%)
-
-✍️ 0 lines written by AI, 40 lines written by hand (0.0% AI-written)
-
-🔤 1,801,520 Input Tokens, 8,196 Output Tokens
-
-💵 $18.43 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 191 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -165,7 +147,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 22:34:41 UTC
+ Last Updated on 30/09/2026 22:32:22 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
