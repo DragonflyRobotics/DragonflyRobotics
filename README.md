@@ -65,7 +65,7 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2051%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,19 +106,19 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   22 mins             ██████████████████░░░░░░░   70.64 % 
-YAML                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Python                   22 mins             ██████████████████░░░░░░░   70.76 % 
+YAML                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
 Neovim                   31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CP4_KrishnaShah          19 mins             ███████████████░░░░░░░░░░   61.39 % 
-segmamba                 6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-paralinguistics          5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+CP4_KrishnaShah          19 mins             ███████████████░░░░░░░░░░   61.49 % 
+segmamba                 6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+paralinguistics          5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
 Linux                    31 mins             █████████████████████████   100.00 % 
@@ -147,7 +147,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 22:29:59 UTC
+ Last Updated on 03/10/2026 21:41:42 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
