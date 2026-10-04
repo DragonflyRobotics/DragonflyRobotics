@@ -65,7 +65,7 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2051%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,22 +106,17 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   22 mins             ██████████████████░░░░░░░   70.76 % 
-YAML                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+YAML                     6 mins              █████████████████████████   98.70 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-Neovim                   31 mins             █████████████████████████   100.00 % 
+Neovim                   6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CP4_KrishnaShah          19 mins             ███████████████░░░░░░░░░░   61.49 % 
-segmamba                 6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-paralinguistics          5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+segmamba                 6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    31 mins             █████████████████████████   100.00 % 
+Linux                    6 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -147,7 +142,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 21:41:42 UTC
+ Last Updated on 04/10/2026 21:48:23 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
