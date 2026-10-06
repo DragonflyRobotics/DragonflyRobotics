@@ -106,23 +106,43 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-YAML                     6 mins              █████████████████████████   98.70 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Markdown                 41 mins             ███████████████████████░░   93.89 % 
+Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Neovim                   6 mins              █████████████████████████   100.00 % 
+Claude Code              41 mins             ███████████████████████░░   93.89 % 
+Neovim                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 🐱‍💻 Projects: 
-segmamba                 6 mins              █████████████████████████   100.00 % 
+mock_interviews          38 mins             ██████████████████████░░░   87.04 % 
+Neuralink                3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Unknown Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.00 % 
+Linux                    44 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 44 mins (100.0%)
+
+✍️ 291 lines written by AI, 9 lines written by hand (97.0% AI-written)
+
+🔤 1,252,658 Input Tokens, 73,482 Output Tokens
+
+💵 $16.20 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+Claude                   291 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.0% of written lines came from AI
+📝 Concise Prompter — average 92 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 3.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -142,7 +162,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:48:23 UTC
+ Last Updated on 06/10/2026 00:17:57 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
