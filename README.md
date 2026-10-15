@@ -106,29 +106,31 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-C++                      2 mins              ███████████████████████░░   91.18 % 
-C                        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-S                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Markdown                 17 mins             ████████████████░░░░░░░░░   62.35 % 
+Text                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+C++                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Claude Code              2 mins              ████████████████████████░   97.06 % 
-Neovim                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Neovim                   26 mins             ███████████████████████░░   92.37 % 
+Claude Code              2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 
 🐱‍💻 Projects: 
-p4                       2 mins              ████████████████████████░   97.06 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+NeuralinkInterview       24 mins             █████████████████████░░░░   84.56 % 
+p4                       4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.00 % 
+Linux                    28 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (100.0%)
+⏱ AI Coding Time: 2 mins (7.87%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 36 lines written by hand (0.0% AI-written)
 
 🔤 276,552 Input Tokens, 2,709 Output Tokens
 
@@ -139,10 +141,10 @@ Linux                    2 mins              ███████████�
 Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 70 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +164,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 21:56:34 UTC
+ Last Updated on 15/10/2026 21:40:10 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
