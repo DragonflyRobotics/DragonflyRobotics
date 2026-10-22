@@ -106,22 +106,19 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 17 mins             ████████████░░░░░░░░░░░░░   47.78 % 
-Go                       10 mins             ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-Text                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Go                       10 mins             ████████████████████████░   95.02 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-Neovim                   37 mins             █████████████████████████   100.00 % 
+Neovim                   11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NeuralinkInterview       24 mins             ████████████████░░░░░░░░░   64.80 % 
-grunner                  11 mins             ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-p4                       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+grunner                  11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    37 mins             █████████████████████████   100.00 % 
+Linux                    11 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -147,7 +144,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 21:57:23 UTC
+ Last Updated on 22/10/2026 21:54:15 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
