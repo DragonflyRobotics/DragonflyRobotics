@@ -71,7 +71,7 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 373 Contributions in the Year 2026
+> 🏆 375 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,19 +82,19 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1406 commits        ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-🌆 Daytime                1812 commits        █████████░░░░░░░░░░░░░░░░   34.06 % 
-🌃 Evening                1855 commits        █████████░░░░░░░░░░░░░░░░   34.87 % 
+🌞 Morning                1406 commits        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+🌆 Daytime                1812 commits        █████████░░░░░░░░░░░░░░░░   34.05 % 
+🌃 Evening                1857 commits        █████████░░░░░░░░░░░░░░░░   34.89 % 
 🌙 Night                  247 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1039 commits        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Tuesday                  807 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Wednesday                777 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Monday                   1039 commits        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Tuesday                  807 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Wednesday                777 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
 Thursday                 731 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Friday                   844 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Friday                   846 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
 Saturday                 490 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
 Sunday                   632 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
 ```
@@ -106,19 +106,21 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Go                       10 mins             ████████████████████████░   95.02 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Go                       10 mins             ██████████████░░░░░░░░░░░   55.65 % 
+C++                      6 mins              █████████░░░░░░░░░░░░░░░░   34.72 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+netrw                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-Neovim                   11 mins             █████████████████████████   100.00 % 
+Neovim                   18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-grunner                  11 mins             █████████████████████████   100.00 % 
+grunner                  11 mins             ███████████████░░░░░░░░░░   58.57 % 
+p4                       7 mins              ██████████░░░░░░░░░░░░░░░   41.43 % 
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.00 % 
+Linux                    18 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -144,7 +146,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 21:37:41 UTC
+ Last Updated on 24/10/2026 21:05:48 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
