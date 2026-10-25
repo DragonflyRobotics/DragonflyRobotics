@@ -61,11 +61,11 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 ## Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,27 +106,47 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Go                       10 mins             ██████████████░░░░░░░░░░░   55.65 % 
-C++                      6 mins              █████████░░░░░░░░░░░░░░░░   34.72 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-netrw                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+C++                      3 hrs 39 mins       ██████████████████████░░░   88.80 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Go                       10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Lua                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-Neovim                   18 mins             █████████████████████████   100.00 % 
+Neovim                   3 hrs 6 mins        ███████████████████░░░░░░   75.35 % 
+Claude Code              1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
 
 🐱‍💻 Projects: 
-grunner                  11 mins             ███████████████░░░░░░░░░░   58.57 % 
-p4                       7 mins              ██████████░░░░░░░░░░░░░░░   41.43 % 
+p4                       2 hrs 35 mins       ████████████████░░░░░░░░░   62.92 % 
+Unknown Project          1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+grunner                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+temp                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+nvim                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Linux                    18 mins             █████████████████████████   100.00 % 
+Linux                    4 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 6 mins (26.67%)
+
+✍️ 9 lines written by AI, 279 lines written by hand (3.12% AI-written)
+
+🔤 3,655,778 Input Tokens, 93,836 Output Tokens
+
+💵 $41.25 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 12 AI Prompts
+
+Claude                   9 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 3.12% of written lines came from AI
+📝 Concise Prompter — average 350 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 98.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +166,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 21:05:48 UTC
+ Last Updated on 25/10/2026 21:06:34 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
