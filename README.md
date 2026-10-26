@@ -61,9 +61,9 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 ## Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -71,7 +71,7 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 375 Contributions in the Year 2026
+> 🏆 376 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,21 +82,21 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1406 commits        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-🌆 Daytime                1812 commits        █████████░░░░░░░░░░░░░░░░   34.05 % 
+🌞 Morning                1406 commits        ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+🌆 Daytime                1813 commits        █████████░░░░░░░░░░░░░░░░   34.06 % 
 🌃 Evening                1857 commits        █████████░░░░░░░░░░░░░░░░   34.89 % 
 🌙 Night                  247 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1039 commits        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Monday                   1040 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
 Tuesday                  807 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 Wednesday                777 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Thursday                 731 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Friday                   846 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Thursday                 731 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Friday                   846 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
 Saturday                 490 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Sunday                   632 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Sunday                   632 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
 ```
 
 
@@ -106,47 +106,48 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-C++                      3 hrs 39 mins       ██████████████████████░░░   88.80 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Go                       10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Lua                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+C++                      4 hrs 45 mins       ███████████████████░░░░░░   76.28 % 
+Other                    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Go                       10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 6 mins        ███████████████████░░░░░░   75.35 % 
-Claude Code              1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+Neovim                   5 hrs 13 mins       █████████████████████░░░░   83.70 % 
+Claude Code              1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
 
 🐱‍💻 Projects: 
-p4                       2 hrs 35 mins       ████████████████░░░░░░░░░   62.92 % 
-Unknown Project          1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-grunner                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-temp                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-nvim                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+p4                       2 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   41.61 % 
+Unknown Project          2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.83 % 
+the-interpolating-polynom44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+SciNum                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+grunner                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 💻 Operating System: 
-Linux                    4 hrs 7 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (26.67%)
+⏱ AI Coding Time: 1 hr 58 mins (31.76%)
 
-✍️ 9 lines written by AI, 279 lines written by hand (3.12% AI-written)
+✍️ 9 lines written by AI, 363 lines written by hand (2.42% AI-written)
 
-🔤 3,655,778 Input Tokens, 93,836 Output Tokens
+🔤 5,384,841 Input Tokens, 101,233 Output Tokens
 
-💵 $41.25 Estimated AI Cost This Week
+💵 $58.91 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 12 AI Prompts
+🧠 4 AI Sessions, 29 AI Prompts
 
 Claude                   9 lines             █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.12% of written lines came from AI
-📝 Concise Prompter — average 350 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 98.12% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 2.42% of written lines came from AI
+📝 Concise Prompter — average 258 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 98.59% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +167,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:06:34 UTC
+ Last Updated on 26/10/2026 22:53:28 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
