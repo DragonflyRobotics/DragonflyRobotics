@@ -106,33 +106,33 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-C++                      4 hrs 58 mins       ███████████████████░░░░░░   75.40 % 
-Other                    1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Nix                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+C++                      5 hrs 59 mins       ██████████████████░░░░░░░   73.42 % 
+Other                    1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+C                        17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Makefile                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 26 mins       █████████████████████░░░░   82.44 % 
-Claude Code              1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Neovim                   7 hrs               █████████████████████░░░░   85.80 % 
+Claude Code              1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
 
 🐱‍💻 Projects: 
-p4                       2 hrs 47 mins       ███████████░░░░░░░░░░░░░░   42.36 % 
-Unknown Project          2 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   35.16 % 
-the-interpolating-polynom44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-what-is-a-x20            19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-SciNum                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+p4                       2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   34.26 % 
+Unknown Project          2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+p5                       1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+the-interpolating-polynom44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+what-is-a-x20            19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 💻 Operating System: 
-Linux                    6 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 27 mins (37.24%)
+⏱ AI Coding Time: 2 hrs 27 mins (30.12%)
 
-✍️ 9 lines written by AI, 363 lines written by hand (2.42% AI-written)
+✍️ 9 lines written by AI, 516 lines written by hand (1.71% AI-written)
 
 🔤 6,058,792 Input Tokens, 107,015 Output Tokens
 
@@ -144,10 +144,10 @@ Claude                   9 lines             ███████████�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.42% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 1.71% of written lines came from AI
 📝 Concise Prompter — average 347 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 98.59% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +167,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:49:03 UTC
+ Last Updated on 29/10/2026 22:57:51 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
