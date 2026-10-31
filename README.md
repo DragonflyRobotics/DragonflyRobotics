@@ -71,11 +71,11 @@ I am also very passionate about contributing. I am trying to solve issues on ROS
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 376 Contributions in the Year 2026
+> 🏆 377 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 64 Public Repositories 
+> 📜 65 Public Repositories 
  > 
 > 🔑 46 Private Repositories 
  > 
@@ -106,47 +106,47 @@ Sunday                   632 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-C++                      5 hrs 59 mins       ██████████████████░░░░░░░   73.42 % 
-Other                    1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-C                        17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Makefile                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+C++                      5 hrs 52 mins       ██████████████████░░░░░░░   73.54 % 
+Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+C                        17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Assembly                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Makefile                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 Editors: 
-Neovim                   7 hrs               █████████████████████░░░░   85.80 % 
-Claude Code              1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Neovim                   6 hrs 49 mins       █████████████████████░░░░   85.46 % 
+Claude Code              1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
 
 🐱‍💻 Projects: 
-p4                       2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   34.26 % 
-Unknown Project          2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-p5                       1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-the-interpolating-polynom44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-what-is-a-x20            19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+p4                       2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.77 % 
+Unknown Project          2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+p5                       1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+the-interpolating-polynom44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+SciNum                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 💻 Operating System: 
-Linux                    8 hrs 10 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 27 mins (30.12%)
+⏱ AI Coding Time: 2 hrs 8 mins (26.78%)
 
 ✍️ 9 lines written by AI, 516 lines written by hand (1.71% AI-written)
 
-🔤 6,058,792 Input Tokens, 107,015 Output Tokens
+🔤 5,384,841 Input Tokens, 101,233 Output Tokens
 
-💵 $65.94 Estimated AI Cost This Week
+💵 $58.91 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 48 AI Prompts
+🧠 8 AI Sessions, 33 AI Prompts
 
 Claude                   9 lines             █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 1.71% of written lines came from AI
-📝 Concise Prompter — average 347 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 236 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 98.9% of changed lines were hand-edited
 ```
 
@@ -167,7 +167,7 @@ Verilog                  2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DragonflyRobotics/DragonflyRobotics/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 22:37:39 UTC
+ Last Updated on 31/10/2026 21:50:46 UTC
 <!--END_SECTION:waka-->
 <!--
 **DragonflyRobotics/DragonflyRobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
